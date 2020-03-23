@@ -15,8 +15,7 @@ echo Press enter to launch the server . . .
 read -n 1
 java -Xmx1024M -Xms1024M -jar server.jar
 git add .
-fecha=$(date)
-git commit -m "World decentralization at $date"
+git commit -m "World decentralization at $(date)"
 git push
 echo ============================================
 echo -----FINISH
