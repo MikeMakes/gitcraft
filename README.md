@@ -9,7 +9,7 @@ As the world files are huge (for git standard) they are stored using Git Large F
 
 # How this works for users familiarized with git
 Fork this repo.  
-Clone your fork.
+Clone your fork.  
 Download https://www.minecraft.net/en-us/download/server/ and put it in server/  
 If you alredy have a world, copy it as server/world
 Launch the server with the launcher, it will download the last version of the world and run server.jar.  
