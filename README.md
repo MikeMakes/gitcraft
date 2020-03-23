@@ -9,15 +9,15 @@ As the world files are huge (for git standard) they are stored using Git Large F
 
 
 # How this works for users familiarized with git
-Fork this repo.
-Download https://www.minecraft.net/en-us/download/server/ and put it in server/
-Launch the server with the launcher, it will download the last version of the world and run server.jar.
+Fork this repo.  
+Download https://www.minecraft.net/en-us/download/server/ and put it in server/  
+Launch the server with the launcher, it will download the last version of the world and run server.jar.  
 When you are done with the cubes, close server.jar first, then the launcher will push the changes.
 
 
 # How this works for users not familiarized with git
-Sign up in github.com.
-Fork this repo; there is a button in the upper right corner of https://github.com/MikeMakes/gitcraft
+Sign up in github.com.  
+Fork this repo; there is a button in the upper right corner of https://github.com/MikeMakes/gitcraft  
 You will find this exact content in https://github.com/your_github_user/gitcraft
 
 In windows:
