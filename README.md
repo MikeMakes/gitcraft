@@ -25,6 +25,7 @@ You will find this exact content in https://github.com/your_github_user/gitcraft
 
 In windows:
  * Download & Install; https://gitforwindows.org/ and select "Use Git from the Windows Command Prompt" (leave any other option by default)
+  * Download windows_setup.bat, edit it, and change https://github.com/MikeMakes/gitcraft for https://github.com/your_github_user/gitcraft
   * Run windows_setup.bat where you want your server files to be.
  
  In gnu/linux and macOS;
